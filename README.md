@@ -1,9 +1,4 @@
 # Assessment2
-Clone the repository:
-
-Copy
-git clone https://github.com/your-username/spotify-mood-playlist.git
-
 
 Install the required dependencies:
 Copy
